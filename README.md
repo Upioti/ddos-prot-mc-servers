@@ -65,9 +65,9 @@ TCPShield is the most popular service but it's more expensive than other OVH opt
 Papyrus is a new option. They have quite a few locations and it's also very affordable. I recommend using them only if you have room for experimentation.
 
 - [Website](https://papyrus.vip)
-- Locations: New York, Frankfurt (Public) / [300+](https://www.cloudflare.com/network/) on Enterprise Plans
+- Locations: New York, Dallas, Frankfurt, London (VIP Plan) / Custom (Any) on Enterprise Plans
 - Pricing type: Subscription
-- Servers: Cloudflare Spectrum
+- Servers: Custom
 - Supports Bedrock: Yes
 - Free plan: No
 - Trusted: ⭐⭐⭐⭐
@@ -91,7 +91,7 @@ Lectron isn't well known in the Minecraft community as they also focus on GTA, M
 - [Website](https://www.lectron.com/)
 - [Locations](https://www.lectron.com/locations/)
 - Pricing type: Pay-as-you-go
-- Servers: Path.net and CloudFlare
+- Servers: Path.net
 - Supports Bedrock: Yes
 - Free plan: No
 - Trusted: ⭐⭐
